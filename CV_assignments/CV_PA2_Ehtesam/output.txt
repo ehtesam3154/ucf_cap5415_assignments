@@ -1,0 +1,15 @@
+Torch device selected:  cpu
+Epoch 1 ------------------------------------------------------------
+Train set: Average loss: 0.1746, Accuracy: 56702/60000 (95%)
+Test set: Average loss: 0.0896, Accuracy: 9723/10000 (97%)
+Epoch 2 ------------------------------------------------------------
+Train set: Average loss: 0.0491, Accuracy: 59060/60000 (98%)
+Test set: Average loss: 0.0322, Accuracy: 9894/10000 (99%)
+Epoch 3 ------------------------------------------------------------
+Train set: Average loss: 0.0332, Accuracy: 59378/60000 (99%)
+Test set: Average loss: 0.0285, Accuracy: 9903/10000 (99%)
+Epoch 4 ------------------------------------------------------------
+Train set: Average loss: 0.0251, Accuracy: 59512/60000 (99%)
+Test set: Average loss: 0.0250, Accuracy: 9914/10000 (99%)
+best accuracy is 99.14
+Training and evaluation finished!
